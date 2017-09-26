@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "async": "^2.1.4",
+    "babel-cli": "^6.26.0",
     "benchmark": "^2.1.3",
     "chalk": "^1.1.3",
     "cheerio": "^0.22.0",
